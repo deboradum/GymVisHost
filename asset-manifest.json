@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/GymVisHost/static/css/main.47314888.css",
-    "main.js": "/GymVisHost/static/js/main.613fc2fe.js",
+    "main.js": "/GymVisHost/static/js/main.acb3530e.js",
     "static/media/maleModel.jpg": "/GymVisHost/static/media/maleModel.991f73a0d3a8c1c7cba1.jpg",
     "index.html": "/GymVisHost/index.html",
     "main.47314888.css.map": "/GymVisHost/static/css/main.47314888.css.map",
-    "main.613fc2fe.js.map": "/GymVisHost/static/js/main.613fc2fe.js.map"
+    "main.acb3530e.js.map": "/GymVisHost/static/js/main.acb3530e.js.map"
   },
   "entrypoints": [
     "static/css/main.47314888.css",
-    "static/js/main.613fc2fe.js"
+    "static/js/main.acb3530e.js"
   ]
 }
