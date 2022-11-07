@@ -28,7 +28,7 @@ root.render(
 
         <Routes>
             <Route path='/' element={<SingleExercise />} />
-            <Route path='/GymVis' element={<SingleExercise />} />
+            <Route path='/GymVisHost' element={<SingleExercise />} />
             <Route path='/workout' element={<MultExercise />} />
             <Route path="/database" element={<AppDatabase />} />
         </Routes>
