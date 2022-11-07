@@ -1,5 +1,3 @@
-[THIS IS A HOST REPO, CLICK HERE TO GO TO THE DEVELOPMENT REPO](https://github.com/deboradum/GymVis)
-
 When I started working out I was not sure which exercises worked which muscles
 and how different exercises play in to each other. To learn more about this
 subject I started reading about the different muscles, what stabilizing and
@@ -20,7 +18,7 @@ neccecery.
 The muscle model used has been sourced from [Symmetric Strength](https://symmetricstrength.com/).
 
 The different exercises and info such as muscles worked and how to do them have
-been scraped from [exrx](https://exrx.net/) using a custom made python program.
+been scraped from [ExRx](https://exrx.net/) using a custom made python program.
 
 Note that this app uses a large image to show the muscles on the model,
 as a consequence of this the app will not work well on mobile. Please use this
