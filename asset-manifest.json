@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/index.tsx/static/css/main.47314888.css",
-    "main.js": "/index.tsx/static/js/main.618adea8.js",
-    "static/media/maleModel.jpg": "/index.tsx/static/media/maleModel.991f73a0d3a8c1c7cba1.jpg",
-    "index.html": "/index.tsx/index.html",
-    "main.47314888.css.map": "/index.tsx/static/css/main.47314888.css.map",
-    "main.618adea8.js.map": "/index.tsx/static/js/main.618adea8.js.map"
+    "main.css": "/GymVisHost/static/css/main.47314888.css",
+    "main.js": "/GymVisHost/static/js/main.56c40130.js",
+    "static/media/maleModel.jpg": "/GymVisHost/static/media/maleModel.991f73a0d3a8c1c7cba1.jpg",
+    "index.html": "/GymVisHost/index.html",
+    "main.47314888.css.map": "/GymVisHost/static/css/main.47314888.css.map",
+    "main.56c40130.js.map": "/GymVisHost/static/js/main.56c40130.js.map"
   },
   "entrypoints": [
     "static/css/main.47314888.css",
-    "static/js/main.618adea8.js"
+    "static/js/main.56c40130.js"
   ]
 }
