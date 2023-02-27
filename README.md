@@ -23,3 +23,7 @@ been scraped from [ExRx](https://exrx.net/) using a custom made python program.
 Note that this app uses a large image to show the muscles on the model,
 as a consequence of this the app will not work well on mobile. Please use this
 app on a laptop or desktop for optimal experience.
+
+## Demo
+https://user-images.githubusercontent.com/88938032/221577009-b32ac1a3-8f1e-41dc-9071-26aa917a52c6.mp4
+
